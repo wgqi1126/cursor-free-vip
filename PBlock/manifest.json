@@ -3,7 +3,7 @@
   "version": "0.1",
   "manifest_version": 3,
   "author": "yeongpin",
-  "url": "https://github.com/yeongpin/PBlock",
+  "url": "https://github.com/wgqi1126/PBlock",
   "description": "Just a simple blocker.",
   "action": {
     "default_icon": "enabled48.png"
